@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kamil. I've started my adventure with programming about 6 months and have fallen in love with front-end technologies. Since then, I have been researching HTML, CSS JavaScript and its ecosystem. I have some commercial experience (about 4 months). I am a curious by nature and constantly working on improving my skills.
+- 👋 Hi, I’m @Kamil. I've started my adventure with programming about 6 months and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am a curious by nature and constantly working on improving my skills.
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
