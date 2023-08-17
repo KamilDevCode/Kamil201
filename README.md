@@ -8,6 +8,3 @@
 Kamil201/Kamil201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-#Languages & Tools:
-1.https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg
