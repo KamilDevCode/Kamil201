@@ -8,8 +8,11 @@
 Kamil201/Kamil201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
 # Technology & Tools:
 
+![image](https://github.com/Kamil201/Kamil201/assets/107198530/91430985-8dca-4de8-8653-37f582db7e65)
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/162b186c-0b5c-4be0-83d0-d4435ff979fc)
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/cdc36953-0df1-46f7-a1be-76874ba13048)
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/e52c0ab0-2e99-424a-a45f-642f85dd5de8)
@@ -17,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/0b3a9b0e-662f-4889-81a6-d4a6172ac033)
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/3e3bae04-82d2-43b9-860f-09cf3a517c8e)
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/5fd06fb7-466d-4c26-8b1e-50dbe29f819c)
+
 
 
 
