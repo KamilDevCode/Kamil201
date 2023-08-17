@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kamil201?tab=repositories](https://github.com/Kamil201?tab=repositories)
+-I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning JavaScript/ React and planning on learning Next.js soon.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me kamlew555@gmail.com 
 
+- 👨‍💻 All of my projects are available at [https://github.com/Kamil201?tab=repositories](https://github.com/Kamil201?tab=repositories)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
