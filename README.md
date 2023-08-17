@@ -1,34 +1,14 @@
--👋 Hi, I’m @Kamil. I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript/ React and planning on learning Next.js soon.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me kamlew555@gmail.com 
+<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h3 align="center">A passionate frontend developer from Poland</h3>
 
-<!---
-Kamil201/Kamil201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 All of my projects are available at [https://github.com/Kamil201?tab=repositories](https://github.com/Kamil201?tab=repositories)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-# Technology & Tools:
-
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/91430985-8dca-4de8-8653-37f582db7e65)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/162b186c-0b5c-4be0-83d0-d4435ff979fc)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/cdc36953-0df1-46f7-a1be-76874ba13048)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/e52c0ab0-2e99-424a-a45f-642f85dd5de8)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/de8b9974-b160-443a-8a7f-8f060074bb31)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/0b3a9b0e-662f-4889-81a6-d4a6172ac033)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/3e3bae04-82d2-43b9-860f-09cf3a517c8e)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/5fd06fb7-466d-4c26-8b1e-50dbe29f819c)
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/0fa24cc5-e174-494e-a3f1-04141761c71a)
-
-
-
-
-
-
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 
 
