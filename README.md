@@ -22,7 +22,8 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/5fd06fb7-466d-4c26-8b1e-50dbe29f819c)
 
 # lets contect:
-![image](https://github.com/Kamil201/Kamil201/assets/107198530/0d4397b5-9420-45b6-8d14-6b4a5b8b08d9) https://www.linkedin.com/in/catherinemitagvaria/
+![image](https://github.com/Kamil201/Kamil201/assets 
+https://www.linkedin.com/in/catherinemitagvaria/
 
 
 
