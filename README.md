@@ -8,3 +8,5 @@
 Kamil201/Kamil201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+#technology:
+![image](https://github.com/Kamil201/Kamil201/assets/107198530/162b186c-0b5c-4be0-83d0-d4435ff979fc)
