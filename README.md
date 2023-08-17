@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/0b3a9b0e-662f-4889-81a6-d4a6172ac033)
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/3e3bae04-82d2-43b9-860f-09cf3a517c8e)
 ![image](https://github.com/Kamil201/Kamil201/assets/107198530/5fd06fb7-466d-4c26-8b1e-50dbe29f819c)
-https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667
+
 
 
 
