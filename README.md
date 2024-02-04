@@ -21,3 +21,5 @@
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kamil201/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kamil&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
