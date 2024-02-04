@@ -27,4 +27,4 @@
 
 [![Kamil201's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamil201)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![GitHub Streak](https://github-readme-streak-stats-teal-beta.vercel.app?user=Kamil201&theme=dark)](https://git.io/streak-stats)
