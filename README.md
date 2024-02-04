@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
+### 👨‍💻 About Me :
+
 -I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
 
 - 👀 I’m interested in Web Development & Mobile Development
