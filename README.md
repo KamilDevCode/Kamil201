@@ -23,3 +23,6 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kamil201/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kamil&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamil201)](https://github.com/anuraghazra/github-readme-stats)
