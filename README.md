@@ -5,7 +5,7 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)]
+![Profile Views](https://github.com/Kamil201)
 
 
 ### 👨‍💻 About Me :
