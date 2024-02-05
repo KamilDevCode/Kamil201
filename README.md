@@ -2,7 +2,7 @@
  
 ### Hi, <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">  I'm Kamil ### 
 
- A passionate frontend developer from Poland 
+### A passionate frontend developer from Poland ### 
 
 
 ### 👨‍💻 About Me :
