@@ -57,7 +57,8 @@ alse&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) |[![Quote-Generator](https://img.shields.io/static/v1?label=&message=Quote-Generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Quote-Generator)) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) |[![Quote-Generator](https://img.shields.io/static/v1?label=&message=Quote-Generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Quote-Generator) |
+[![Newsletter-sign-up-form-with-success-message](https://img.shields.io/static/v1?label=&message=https://github.com/Kamil201/Newsletter-sign-up-form-with-success-message&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Newsletter-sign-up-form-with-success-message) 
 
 ### 🔥 My Stats :
 
