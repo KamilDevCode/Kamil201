@@ -2,7 +2,7 @@
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamil201&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href= "https://github.com/Kamil201" alt="Hello Coders" width="70%"/>
 <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
   
