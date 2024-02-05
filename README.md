@@ -6,7 +6,7 @@
 ### 
 
 
-### 👨‍💻 About Me :
+### 👨‍💻 About Me:
 
 -I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
 
@@ -71,7 +71,7 @@
 
 
 
- ### 🔧 Software that I use ###
+ ### 🔧 Software that I use: ###
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -80,7 +80,7 @@
  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
 
-### :monocle_face: Where to find me ###
+### :monocle_face: Where to find me ? ###
 
  <a href="https://www.linkedin.com/in/kam-lew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
