@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kamil</h1>
+<h1 align="center"<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 ### 👨‍💻 About Me :
@@ -78,3 +78,8 @@
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+
+h3>Where to find me</h3>
+
+ <a href="https://www.linkedin.com/in/kam-lew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a> 
