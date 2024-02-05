@@ -4,7 +4,8 @@
 </p>
 
 <br>
-
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+  
 ### 👨‍💻 About Me:
 
 -I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
