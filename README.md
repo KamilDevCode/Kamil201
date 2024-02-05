@@ -79,7 +79,11 @@
  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-<h3>Where to find me</h3>
+</details>
+
+<details>
+<sumary><h3>Where to find me</h3></sumary
 
  <a href="https://www.linkedin.com/in/kam-lew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
  </a> 
+ </details>
