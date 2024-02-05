@@ -5,6 +5,8 @@
 ### A passionate frontend developer from Poland 
 ### 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamil201&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+</p>
 <br>
 
 ### 👨‍💻 About Me:
