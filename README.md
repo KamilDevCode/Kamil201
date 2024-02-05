@@ -1,4 +1,4 @@
-<h1 align="center" Hi <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> I'm Kamil </h1>
+<h1 align="left" <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> I'm Kamil </h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
 ### 👨‍💻 About Me :
