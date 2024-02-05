@@ -5,6 +5,9 @@
 </h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
+![Profile Views](https://komarev.com/ghpvc/?Kamil201=Defcon27)
+[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
+
 ### 👨‍💻 About Me :
 
 -I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
