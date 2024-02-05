@@ -57,7 +57,7 @@ alse&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![Quote-Generator](https://img.shields.io/static/v1?label=&message=www&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Quote-Generator) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Newsletter-sign-up-form-with-success-message) [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)] |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![Quote-Generator](https://img.shields.io/static/v1?label=&message=www&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Quote-Generator) [![Kamil](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Newsletter-sign-up-form-with-success-message) [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)] |
 
 ### 🔥 My Stats :
 
