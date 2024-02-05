@@ -1,12 +1,8 @@
 <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
+ 
+### Hi,  I'm Kamil ### 
 
-<h1 align="left" 
- Hi,  I'm Kamil 
-</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
-
-![Profile Views](https://github.com/Kamil201)
-
+### A passionate frontend developer from Poland ###
 
 ### 👨‍💻 About Me :
 
