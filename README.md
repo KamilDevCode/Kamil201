@@ -61,7 +61,9 @@
 
 <br>
 
-### 🔥 My Stats :
+### 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
+  :
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kamil201/langs?time_range=one_year&compact=True&theme=dark)](https://githubtrends.io)
 
