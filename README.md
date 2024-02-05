@@ -50,8 +50,6 @@
 
 <br><br>
 
-
-
 ### GitHub Metrics:  👇🏻 ###
 
 
@@ -60,7 +58,7 @@
 | - | - |
 | <div>[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/)</div> | <div>[![Quote-Generator](https://img.shields.io/static/v1?label=&message=Quote-Generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Quote-Generator) [![Newsletter-sign-up-form](https://img.shields.io/static/v1?label=&message=Newsletter-sign-up-form&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Newsletter-sign-up-form-with-success-message)</div> |
 
-
+<br><br>
 
 ### 🔥 My Stats :
 
@@ -73,8 +71,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats-teal-beta.vercel.app?user=Kamil201&theme=dark)](https://git.io/streak-stats)
 
-
-
+<br><br>
 
  ### 🔧 Software that I use: ###
  
@@ -84,8 +81,7 @@
  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 
-
-
+<br><br>
 
 ### :monocle_face: Where to find me ? ###
 
