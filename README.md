@@ -45,11 +45,10 @@
 
 <br><br>
 
-<div align="center">
+<div align="left">
     <details>
         <summary><b>GitHub Metrics👇🏻</b></summary>
     <br>
-alse&tweets.limit=2&tweets.user=ashleymavericks&config.timezone=Asia%2FKolkata">
     </details>
 </div>
 
