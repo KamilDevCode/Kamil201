@@ -11,7 +11,7 @@
 - 📫 How to reach me kamlew555@gmail.com 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamil201?tab=repositories](https://github.com/Kamil201?tab=repositories)
-<h3 align="left">Connect with me: kamlew555@gmail.com </h3>
+
 <p align="left">
 </p>
 
