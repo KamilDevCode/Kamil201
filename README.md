@@ -70,16 +70,14 @@
 [![GitHub Streak](https://github-readme-streak-stats-teal-beta.vercel.app?user=Kamil201&theme=dark)](https://git.io/streak-stats)
 
 
-<details>
- <summary><h3>🔧 Software that I use</h3></summary>
+
+ <h3>🔧 Software that I use</h3>
  
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
  ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
  ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
  ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-
-</details>
 
 
 <h3>	:monocle_face: Where to find me</h3>
