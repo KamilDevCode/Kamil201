@@ -13,13 +13,6 @@
 
 ### 👨‍💻 About Me:
 
-## 🎓 Education 
-
-![MDN Web Docs](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-<br>
-
 -I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
 
 - 👀 I’m interested in Web Development & Mobile Development
