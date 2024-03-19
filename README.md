@@ -90,14 +90,11 @@
 
 ### 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
-  :
+
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/Kamil201/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kamil&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
-
-
-[![Kamil201's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamil201)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
