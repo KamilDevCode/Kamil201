@@ -34,8 +34,7 @@
 
 
 ### 👨‍💻 About Me:
-
--I started my adventure with programming about 6 months ago and have fallen in love with front-end technologies. Since then, I have been learning HTML, CSS, JavaScript and its ecosystem. I am ambitious by nature and constantly working on improving my skills.
+-Aspiring software developer on a journey to learn and grow in the world of coding. Currently exploring the fundamentals of programming languages . My main motivation is continuous growth and refining my skills.
 
 - 👀 I’m interested in Web Development & Mobile Development
 - 🌱 I’m currently learning JavaScript
