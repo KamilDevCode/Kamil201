@@ -2,7 +2,12 @@
  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/47eb2734-addb-46da-b4dd-5e1616cd3853" width="30">&nbsp
  A passionate frontend developer from Poland </h3>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=AB3DA9&background=95DDFF00&random=false&width=435&lines=%F0%9F%9A%80Diving+into+AI+%26+frontend+dev!;%F0%9F%A7%A0+Exploring+Machine+Learning+;%F0%9F%93%9AAlways+learning+new+things...)](https://git.io/typing-svg)
+<div style="display: flex; justify-content: center;">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&background=95DDFF00&random=false&width=435&lines=%F0%9F%9A%80Diving+into+AI+%26+frontend+dev!;%F0%9F%A7%A0+Exploring+Machine+Learning+;%F0%9F%93%9AAlways+learning+new+things..." alt="Typing SVG" />
+    </a>
+</div>
+
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamil201&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
