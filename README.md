@@ -98,6 +98,9 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kamil&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
 
+<img src="https://www.githubwrapped.io/KamilDevCode">
+
+
 <br>
 
  ### 🔧 Software that I use: ###
