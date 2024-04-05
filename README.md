@@ -97,9 +97,7 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/KamilDevCode/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kamil&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
-
-<img src="https://www.githubwrapped.io/KamilDevCode">
-
+[![Github Wrapped](https://www.githubwrapped.io/KamilDevCode)]
 
 <br>
 
