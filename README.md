@@ -1,6 +1,6 @@
  <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi ! I'm Kamil
 
-<br>
+<br><br>
 <div align="center">
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&background=95DDFF00&random=false&width=435&lines=%F0%9F%9A%80Diving+into+AI+%26+frontend+dev!;%F0%9F%A7%A0+Exploring+Machine+Learning+;%F0%9F%93%9AAlways+learning+new+things...;%F0%9F%92%BBBuilding+my+skills+step+by+step;Got+any+tips%3F+Let+me+know!%F0%9F%92%AC" alt="Typing SVG" /></a>
 </div>
