@@ -41,7 +41,7 @@
 <p> Aspiring software developer on a journey to learn and grow in the world of coding. Currently exploring the fundamentals of programming languages in the field of AI 🧠". My main motivation is continuous growth and refining my skills.</p>
 
 - 👀 I’m interested in AI and Machine Learning
-- 🌱 I’m currently learning Python ![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg
+- 🌱 I’m currently learning Python  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="30" />
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;  How to reach me kamlew555@gmail.com 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kamil201?tab=repositories](https://github.com/Kamil201?tab=repositories)
