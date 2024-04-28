@@ -12,7 +12,7 @@
 <br><br>
 ![image](https://github.com/KamilDevCode/KamilDevCode/assets/107198530/43cd31ca-968f-4275-b80d-863040c2b705)
 
-<img src= "https://github.com/KamilDevCode/KamilDevCode/assets/107198530/9571e8e4-a02e-4ddc-bbd3-178b7e7e633c) width="400""
+<img src= "https://github.com/KamilDevCode/KamilDevCode/assets/107198530/9571e8e4-a02e-4ddc-bbd3-178b7e7e633c)" width="400">
 
 
 
