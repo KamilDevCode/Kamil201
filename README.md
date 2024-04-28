@@ -10,8 +10,6 @@
 </p>
 
 <br><br>
-![image](https://github.com/KamilDevCode/KamilDevCode/assets/107198530/43cd31ca-968f-4275-b80d-863040c2b705)
-
 <img src="https://miro.medium.com/v2/resize:fit:1280/1*Jwt-NggFZflXNmkndLYLJA.gif">
 
 
