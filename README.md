@@ -2,7 +2,7 @@
 
 <br><br>
 <div align="center">
-   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&background=95DDFF00&random=false&width=435&lines=%F0%9F%9A%80Diving+into+AI ![image](https://github.com/KamilDevCode/KamilDevCode/assets/107198530/b61bbfad-7fac-4a79-9fc7-9bcce266bfe5)
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=000000&background=95DDFF00&random=false&width=435&lines=%F0%9F%9A%80Diving+into+AI 
 +%26 and Python;%F0%9F%A7%A0+Exploring+Machine+Learning+;%F0%9F%93%9AAlways+learning+new+things...;%F0%9F%92%BBBuilding+my+skills+step+by+step;Got+any+tips%3F+Let+me+know!%F0%9F%92%AC" alt="Typing SVG" /></a>
 </div>
 
