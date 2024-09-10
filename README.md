@@ -51,10 +51,10 @@
 
 <br>
 
-<div align = "center">
-  ### Check out my medium articles:
-
-# Python name mangling:
+# Check out my articles📕:
+<div align = "left">
+ 
+### Python name mangling:
 [![Medium Articles](https://img.shields.io/badge/Medium-Articles-green)](https://medium.com/@kamlew555/hiding-variables-in-python-name-mangling-b7ae2a890097)
 </div>
  
