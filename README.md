@@ -53,9 +53,8 @@
 
 ### Check out my articles📕:
 <div align = "left">
- 
-### Python name mangling:
-[![Medium Articles](https://img.shields.io/badge/Medium-Articles-green)](https://medium.com/@kamlew555/hiding-variables-in-python-name-mangling-b7ae2a890097)
+- Python name mangling: [![Medium Articles](https://img.shields.io/badge/Medium-Articles-green)](https://medium.com/@kamlew555/hiding-variables-in-python-name-mangling-b7ae2a890097)
+
 </div>
  
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
