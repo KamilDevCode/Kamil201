@@ -58,7 +58,6 @@ Aspiring software developer on a journey to learn and grow in the world of codin
 
 ## 📕 My Articles:
 - **Python Name Mangling**: [![Medium Articles](https://img.shields.io/badge/Medium-Articles-green)](https://medium.com/@kamlew555/hiding-variables-in-python-name-mangling-b7ae2a890097)
-
 <br>
 
 ## 🛠️ Languages and Tools:
