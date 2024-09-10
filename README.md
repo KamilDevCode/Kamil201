@@ -51,7 +51,7 @@
 
 <br>
 
-# Check out my articles📕:
+### Check out my articles📕:
 <div align = "left">
  
 ### Python name mangling:
