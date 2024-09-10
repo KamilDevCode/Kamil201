@@ -111,14 +111,27 @@ Aspiring software developer on a journey to learn and grow in the world of codin
 
 <br>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kamil201&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kamil201&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+### 
+ ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
-<p align="center">
-  <img src="https://github.com/Kamil201/github-readme-activity-graph/blob/main/images/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/KamilDevCode/langs?time_range=six_months&theme=dark
+)](https://githubtrends.io)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kamil&theme=dark&border_radius=4.8)](https://git.io/streak-stats)
+<br>
+<br>
+
+ ### 💻 IDEs/Editors: ###
+ 
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
+ ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+<br>
+<br>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="30" height="30" /> Where to find me ? ###
+
+ <a href="https://www.linkedin.com/in/kam-lew/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a> 
