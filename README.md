@@ -53,10 +53,9 @@ Aspiring software developer on a journey to learn and grow in the world of codin
 - 🌱 Currently learning Python <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="30" height="30" />
 - 💬 Reach me at [kamlew555@gmail.com](mailto:kamlew555@gmail.com)
 
-- |- 💻 **Technology** | 🚀 **Projects** |
+| 💻 **Technology** | 🚀 **Projects** |
 | - | - |
 | <div>[![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/)</div> | <div>[![Quote-Generator](https://img.shields.io/static/v1?label=&message=Quote-Generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/Quote-Generator) [![My-Frontend-Mentor-Challenges](https://img.shields.io/static/v1?label=&message=My-Frontend-Mentor-Challenges&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/Kamil201/My-Frontend-Mentor-Challenges)</div> |
-<br>
 <br>
 
 ## 📕 My Articles:
